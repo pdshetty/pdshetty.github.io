@@ -18,10 +18,11 @@ footer {
 	background-color: whitesmoke;
 	padding-top: 30px;
 	padding-bottom: 30px;
+	position: relative;
 }
 
 #back-to-top {
-	position: fixed;
+	position: absolute;
 	bottom: 10px;
 	right: 10px;
 }
